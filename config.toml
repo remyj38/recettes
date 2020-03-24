@@ -1,0 +1,21 @@
+baseURL = "https://recettes.remyj.fr/"
+languageCode = "fr-fr"
+title = "Recettes"
+theme = "beautifulhugo"
+DefaultContentLanguage="fr"
+[params]
+    mainSections = ["posts"]
+    dateFormat = "2 January 2006"
+[params.piwik]
+    enabled = true
+    host = "https://analytics.remyj.fr/"
+    site_id = 12
+    track_nojs = true
+[[menu.main]]
+    name = "Catégories"
+    url = "categories/"
+    weight = 3
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
