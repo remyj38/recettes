@@ -1,6 +1,6 @@
 +++
 title = "Crêpes"
-categories = ["gâteaux"]
+categories = ["gateaux"]
 date = "2020-03-24"
 author = "Rémy"
 +++
