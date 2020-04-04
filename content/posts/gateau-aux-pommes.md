@@ -1,5 +1,5 @@
 +++
-title = "Gateau Aux Pommes"
+title = "Gâteau Aux Pommes"
 categories = ["gateaux"]
 date = 2020-04-04T14:58:01+02:00
 author = "Rémy"
@@ -12,6 +12,7 @@ Recette pour 4-6 personnes.
 
 * 200 grammes de farine
 * 150 grammes de sucre
+* 2 sachets de sucre vanillé
 * 4 œufs
 * 200ml de crème
 * 4 pommes
