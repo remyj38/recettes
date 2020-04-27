@@ -16,6 +16,7 @@ Recette pour 4-6 personnes.
 * 4 œufs
 * 200ml de crème
 * 4 pommes
+* 1 sachet de levure
 
 ## Préparation
 
