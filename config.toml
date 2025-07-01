@@ -3,6 +3,9 @@ languageCode = "fr-fr"
 title = "Recettes"
 theme = "beautifulhugo"
 DefaultContentLanguage="fr"
+
+enableGitInfo = true
+
 [params]
     mainSections = ["posts"]
     dateFormat = "2 January 2006"
