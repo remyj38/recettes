@@ -4,11 +4,10 @@ title = "Recettes"
 theme = "beautifulhugo"
 DefaultContentLanguage="fr"
 
-enableGitInfo = true
-
 [params]
     mainSections = ["posts"]
     dateFormat = "2 January 2006"
+    selfHosted = true
 [params.piwik]
     enabled = true
     host = "https://analytics.remyj.fr/"
